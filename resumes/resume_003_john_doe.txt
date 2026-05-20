@@ -1,0 +1,17 @@
+Name: John Doe
+Target Role: Senior Python Developer
+Location: Hyderabad
+
+Summary:
+Backend engineer with 8 years of Python experience building scalable APIs and microservices.
+
+Skills:
+Python, FastAPI, Django, PostgreSQL, Redis, Docker, Kubernetes, CI/CD
+
+Experience:
+- Senior Backend Engineer, CloudLedger (2021-2026): Led migration to microservices.
+- Python Developer, AppForge (2018-2021): Built REST services for payment workflows.
+- Software Engineer, ByteWave (2016-2018): Implemented backend modules in Django.
+
+Education:
+B.E. in Information Technology, Osmania University, 2016

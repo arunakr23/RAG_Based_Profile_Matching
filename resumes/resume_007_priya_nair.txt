@@ -1,0 +1,16 @@
+Name: Priya Nair
+Target Role: Full Stack Developer
+Location: Kochi
+
+Summary:
+Full-stack engineer with 5 years of experience in React, Node.js, and Python integrations.
+
+Skills:
+JavaScript, React, Node.js, Python, MongoDB, REST APIs, AWS
+
+Experience:
+- Full Stack Developer, ShopStack (2021-2026): Built hiring dashboard portal.
+- Frontend Developer, Pixelline (2019-2021): Developed analytics UI components.
+
+Education:
+B.Tech in IT, CUSAT, 2019

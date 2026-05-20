@@ -1,0 +1,16 @@
+Name: Ananya Bose
+Target Role: Data Scientist
+Location: Bengaluru
+
+Summary:
+Data scientist with 3 years of experience in forecasting and model explainability.
+
+Skills:
+Python, SQL, Scikit-learn, SHAP, Time Series, Tableau
+
+Experience:
+- Data Scientist, ForecastIQ (2024-2026): Built forecasting model for workforce planning.
+- Analyst, PrismData (2023-2024): Performed data exploration and feature selection.
+
+Education:
+M.Sc. in Statistics, Christ University, 2023

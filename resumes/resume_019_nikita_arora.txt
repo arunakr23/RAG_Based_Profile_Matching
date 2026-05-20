@@ -1,0 +1,16 @@
+Name: Nikita Arora
+Target Role: Junior Data Analyst
+Location: Jaipur
+
+Summary:
+Entry-level analyst with 1.5 years of experience in Excel, SQL, and basic Python analytics.
+
+Skills:
+SQL, Excel, Python, Power BI, Data Visualization
+
+Experience:
+- Junior Analyst, TrendPoint (2025-2026): Built weekly operations dashboards.
+- Intern, DataEdge (2024-2025): Cleaned and prepared HR datasets.
+
+Education:
+BBA, University of Rajasthan, 2024

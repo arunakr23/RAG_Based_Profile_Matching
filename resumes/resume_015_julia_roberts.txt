@@ -1,0 +1,16 @@
+Name: Julia Roberts
+Target Role: HR Analyst
+Location: London
+
+Summary:
+HR analyst with 5 years of experience in recruitment analytics and hiring pipelines.
+
+Skills:
+SQL, Excel, Python, HR Metrics, Workforce Analytics, Tableau
+
+Experience:
+- HR Analyst, TalentGrid (2022-2026): Improved time-to-hire reporting framework.
+- Recruitment Coordinator, HireLink (2021-2022): Managed candidate data systems.
+
+Education:
+MSc in Human Resource Management, King's College London, 2021

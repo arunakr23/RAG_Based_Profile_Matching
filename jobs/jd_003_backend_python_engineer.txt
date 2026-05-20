@@ -1,0 +1,21 @@
+Job Title: Backend Python Engineer
+Location: Hyderabad
+Experience Required: 3+ years
+
+Role Summary:
+We need a backend engineer to build scalable APIs and data services for a talent platform.
+
+Must-Have Requirements:
+- 3+ years of Python backend development
+- Experience with FastAPI or Django
+- Strong SQL/PostgreSQL knowledge
+- API design and testing experience
+
+Good-to-Have:
+- Redis and message queue experience
+- Kubernetes exposure
+
+Responsibilities:
+- Build and maintain backend microservices
+- Implement integrations for resume and JD pipelines
+- Ensure performance, reliability, and observability

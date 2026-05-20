@@ -1,0 +1,16 @@
+Name: Sara Miller
+Target Role: Data Scientist (NLP)
+Location: Boston
+
+Summary:
+NLP-focused data scientist with 4 years of experience in semantic search and ranking.
+
+Skills:
+Python, NLP, Sentence Transformers, Information Retrieval, SQL, Scikit-learn
+
+Experience:
+- Data Scientist, SearchLabs (2023-2026): Improved retrieval relevance in HR search.
+- Analyst, TextArc (2022-2023): Built keyword extraction pipelines.
+
+Education:
+M.S. in Data Science, Northeastern University, 2022

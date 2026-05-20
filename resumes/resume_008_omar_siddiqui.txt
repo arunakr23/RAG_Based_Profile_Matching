@@ -1,0 +1,16 @@
+Name: Omar Siddiqui
+Target Role: DevOps Engineer
+Location: Noida
+
+Summary:
+DevOps engineer with 6 years of experience in cloud infrastructure and CI/CD automation.
+
+Skills:
+AWS, Docker, Kubernetes, Terraform, Jenkins, Linux, Python, Monitoring
+
+Experience:
+- DevOps Engineer, ScaleGrid (2020-2026): Reduced deployment time by 40%.
+- Systems Engineer, InfraNova (2018-2020): Managed Linux and scripting automation.
+
+Education:
+B.Tech in Electronics and Communication, AMU, 2018

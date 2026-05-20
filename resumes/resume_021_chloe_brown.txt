@@ -1,0 +1,16 @@
+Name: Chloe Brown
+Target Role: Full Stack Engineer
+Location: Manchester
+
+Summary:
+Full stack engineer with 6 years of experience building SaaS products.
+
+Skills:
+React, Node.js, Python, PostgreSQL, AWS, Testing
+
+Experience:
+- Senior Engineer, TeamFlow (2020-2026): Implemented candidate tracking UI and APIs.
+- Software Engineer, WebNest (2018-2020): Built data-rich frontend modules.
+
+Education:
+BSc in Software Engineering, University of Manchester, 2018

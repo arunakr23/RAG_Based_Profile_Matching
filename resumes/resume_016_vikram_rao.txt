@@ -1,0 +1,16 @@
+Name: Vikram Rao
+Target Role: Backend Engineer
+Location: Bengaluru
+
+Summary:
+Backend engineer with 5 years of Java and Python microservice development experience.
+
+Skills:
+Java, Python, Spring Boot, FastAPI, MySQL, Redis, Docker
+
+Experience:
+- Backend Engineer, PayPulse (2022-2026): Built low-latency transaction APIs.
+- Software Developer, ByteAxis (2021-2022): Implemented payment integration modules.
+
+Education:
+B.Tech in CSE, BMS College of Engineering, 2021

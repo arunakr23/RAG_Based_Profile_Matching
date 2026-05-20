@@ -1,0 +1,21 @@
+Job Title: Senior Data Scientist
+Location: Bengaluru
+Experience Required: 5+ years
+
+Role Summary:
+We are hiring a Senior Data Scientist to build predictive models and improve candidate-job matching quality.
+
+Must-Have Requirements:
+- 5+ years of experience in Python
+- Strong SQL skills
+- Hands-on machine learning experience
+- Experience with NLP or semantic search
+
+Good-to-Have:
+- MLOps exposure
+- Experience with cloud platforms (AWS/Azure)
+
+Responsibilities:
+- Build and evaluate ML models for ranking and recommendation
+- Collaborate with engineering to productionize pipelines
+- Analyze model performance and improve precision/recall

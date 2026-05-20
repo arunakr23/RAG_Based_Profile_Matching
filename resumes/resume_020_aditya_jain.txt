@@ -1,0 +1,16 @@
+Name: Aditya Jain
+Target Role: MLOps Engineer
+Location: Bengaluru
+
+Summary:
+MLOps engineer with 5 years of experience in model deployment, tracking, and monitoring.
+
+Skills:
+Python, MLflow, Docker, Kubernetes, AWS, CI/CD, Airflow
+
+Experience:
+- MLOps Engineer, ModelOpsHub (2022-2026): Reduced model deployment cycle by 35%.
+- Data Engineer, DataRail (2021-2022): Created robust data ingestion jobs.
+
+Education:
+B.Tech in Computer Science, PES University, 2021

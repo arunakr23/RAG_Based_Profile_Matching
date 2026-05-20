@@ -1,0 +1,41 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+ENV/
+venv.bak/
+
+# Virtual environment for Windows
+venv/Scripts/
+venv/Lib/
+
+# ChromaDB persistence folder (local DB files)
+chroma_db/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Notebook outputs and temporary files
+matches.json
+*.log
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# dotenv
+.env
+.env.*
+
+# build/dist
+dist/
+build/
+*.egg-info/

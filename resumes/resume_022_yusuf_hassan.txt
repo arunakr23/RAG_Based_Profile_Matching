@@ -1,0 +1,16 @@
+Name: Yusuf Hassan
+Target Role: Data Engineer
+Location: Cairo
+
+Summary:
+Data engineer with 4 years of ETL and warehouse development experience.
+
+Skills:
+Python, SQL, Airflow, Snowflake, Spark, Data Modeling
+
+Experience:
+- Data Engineer, NileData (2023-2026): Built recruitment data mart.
+- BI Developer, InsightEgypt (2022-2023): Developed dashboards and SQL procedures.
+
+Education:
+BSc in Computer Science, Cairo University, 2022

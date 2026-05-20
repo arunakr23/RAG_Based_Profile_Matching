@@ -1,0 +1,16 @@
+Name: Emily Chen
+Target Role: Product Analyst
+Location: Remote
+
+Summary:
+Product analyst with 4 years of experience in experiment design and user behavior analysis.
+
+Skills:
+SQL, Python, Amplitude, A/B Testing, Product Metrics, Dashboards
+
+Experience:
+- Product Analyst, AppVista (2023-2026): Designed metric framework for onboarding funnel.
+- Data Analyst, UserPilot (2022-2023): Built feature adoption reports.
+
+Education:
+B.S. in Statistics, University of Washington, 2022
