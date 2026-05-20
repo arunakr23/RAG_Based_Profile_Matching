@@ -1,0 +1,17 @@
+Name: Aarav Mehta
+Target Role: Data Scientist
+Location: Bengaluru
+
+Summary:
+Data scientist with 6 years of experience in Python, machine learning, and NLP for product analytics.
+
+Skills:
+Python, SQL, Pandas, Scikit-learn, NLP, TensorFlow, Feature Engineering, A/B Testing
+
+Experience:
+- Senior Data Scientist, InsightLoop (2022-2026): Built churn prediction model improving retention by 14%.
+- Data Scientist, MetricHive (2020-2022): Designed recommendation pipeline and dashboard KPIs.
+- Data Analyst, QuantBridge (2018-2020): Automated weekly reporting with Python and SQL.
+
+Education:
+M.Tech in Data Science, IIT Bombay, 2018

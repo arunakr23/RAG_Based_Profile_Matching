@@ -1,0 +1,16 @@
+Name: Isha Verma
+Target Role: Data Analyst
+Location: Delhi
+
+Summary:
+Data analyst with 4 years of experience in SQL, Python, and BI reporting.
+
+Skills:
+SQL, Python, Tableau, Power BI, Excel, Statistics, Data Cleaning
+
+Experience:
+- Data Analyst, RetailPulse (2023-2026): Created demand forecasting dashboards.
+- Junior Analyst, MarketLens (2022-2023): Automated sales reports.
+
+Education:
+MBA (Business Analytics), NMIMS, 2022

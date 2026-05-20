@@ -1,0 +1,16 @@
+Name: Neha Gupta
+Target Role: Business Analyst
+Location: Gurugram
+
+Summary:
+Business analyst with 5 years of experience translating business needs into data-driven solutions.
+
+Skills:
+SQL, Excel, Tableau, Stakeholder Management, BRD, KPI Design
+
+Experience:
+- Business Analyst, GrowthArc (2022-2026): Improved conversion funnel insights.
+- Analyst, InsightPark (2021-2022): Supported sales and operations reporting.
+
+Education:
+MBA, IIM Indore, 2021

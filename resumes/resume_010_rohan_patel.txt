@@ -1,0 +1,16 @@
+Name: Rohan Patel
+Target Role: Data Engineer
+Location: Ahmedabad
+
+Summary:
+Data engineer with 7 years of experience building ETL pipelines and data lakes.
+
+Skills:
+Python, SQL, Spark, Airflow, AWS, Data Warehousing, Kafka
+
+Experience:
+- Senior Data Engineer, DeltaInsights (2021-2026): Built scalable ingestion for HR analytics.
+- Data Engineer, StreamForge (2018-2021): Implemented batch and streaming pipelines.
+
+Education:
+B.Tech in Computer Engineering, Nirma University, 2018

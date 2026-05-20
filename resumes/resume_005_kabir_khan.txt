@@ -1,0 +1,17 @@
+Name: Kabir Khan
+Target Role: NLP Engineer
+Location: Mumbai
+
+Summary:
+NLP engineer with 7 years experience in text classification, information extraction, and LLM evaluation.
+
+Skills:
+Python, NLP, Transformers, Hugging Face, PyTorch, spaCy, Elasticsearch
+
+Experience:
+- NLP Lead, LexiAI (2022-2026): Built resume parsing pipeline with named entity extraction.
+- NLP Engineer, TextMinds (2019-2022): Fine-tuned transformer models.
+- Research Assistant, AI Lab (2017-2019): Published work on semantic search.
+
+Education:
+M.S. in Artificial Intelligence, IIIT Hyderabad, 2017

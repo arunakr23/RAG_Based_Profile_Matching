@@ -1,0 +1,16 @@
+Name: Riya Sharma
+Target Role: Machine Learning Engineer
+Location: Pune
+
+Summary:
+ML engineer with 5 years of experience deploying deep learning and classical ML models.
+
+Skills:
+Python, PyTorch, Scikit-learn, MLOps, Docker, AWS, SQL
+
+Experience:
+- ML Engineer, VisionArc (2021-2026): Productionized computer vision service reducing false positives by 22%.
+- Software Engineer, DataNova (2019-2021): Built ETL jobs and model APIs.
+
+Education:
+B.Tech in Computer Science, NIT Trichy, 2019

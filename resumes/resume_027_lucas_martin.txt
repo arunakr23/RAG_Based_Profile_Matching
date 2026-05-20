@@ -1,0 +1,16 @@
+Name: Lucas Martin
+Target Role: Junior Backend Developer
+Location: Madrid
+
+Summary:
+Backend developer with 2 years of experience in Python and Node.js APIs.
+
+Skills:
+Python, Node.js, PostgreSQL, REST APIs, Git
+
+Experience:
+- Backend Developer, APIHub (2024-2026): Built endpoints for internal HR tools.
+- Intern, DataWeb (2023-2024): Assisted with API documentation and testing.
+
+Education:
+BSc in Software Engineering, Universidad Carlos III de Madrid, 2023

@@ -1,0 +1,21 @@
+Job Title: Machine Learning Engineer (NLP)
+Location: Pune
+Experience Required: 4+ years
+
+Role Summary:
+Looking for an ML Engineer with NLP expertise to build retrieval and classification components for HR intelligence products.
+
+Must-Have Requirements:
+- 4+ years in Python
+- Experience with PyTorch or TensorFlow
+- NLP experience with transformer models
+- Ability to deploy models as APIs
+
+Good-to-Have:
+- Hugging Face ecosystem experience
+- Docker and CI/CD knowledge
+
+Responsibilities:
+- Train and fine-tune NLP models
+- Build embedding services and evaluate semantic quality
+- Optimize latency of inference pipelines

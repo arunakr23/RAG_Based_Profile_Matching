@@ -1,0 +1,16 @@
+Name: Karan Malhotra
+Target Role: Python Automation Engineer
+Location: Chandigarh
+
+Summary:
+Automation engineer with 5 years of Python scripting and workflow orchestration experience.
+
+Skills:
+Python, Selenium, API Automation, SQL, Linux, Airflow
+
+Experience:
+- Automation Engineer, AutoFlow (2022-2026): Automated resume ingestion QA workflows.
+- QA Engineer, TestCore (2021-2022): Created regression test suites.
+
+Education:
+B.Tech in IT, Chitkara University, 2021

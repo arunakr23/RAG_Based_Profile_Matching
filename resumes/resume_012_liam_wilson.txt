@@ -1,0 +1,16 @@
+Name: Liam Wilson
+Target Role: Python Developer
+Location: Remote
+
+Summary:
+Python developer with 2 years experience in scripting automation and API integration.
+
+Skills:
+Python, Flask, SQL, Git, Linux, REST API
+
+Experience:
+- Python Developer, CoreScripts (2024-2026): Wrote automation scripts for document processing.
+- Intern, CodeOrbit (2023-2024): Built internal utilities.
+
+Education:
+B.S. in Computer Science, Arizona State University, 2023

@@ -1,0 +1,17 @@
+Name: Mohit Batra
+Target Role: Senior Software Engineer
+Location: Pune
+
+Summary:
+Software engineer with 10 years of backend and distributed systems experience.
+
+Skills:
+Java, Python, Microservices, Kafka, PostgreSQL, Kubernetes, System Design
+
+Experience:
+- Senior Software Engineer, ScaleWorks (2019-2026): Designed high-throughput services.
+- Software Engineer, CodePrime (2016-2019): Built API gateways and auth services.
+- Developer, NexaSoft (2014-2016): Implemented backend modules.
+
+Education:
+B.Tech in Computer Engineering, COEP, 2014

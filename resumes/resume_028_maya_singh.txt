@@ -1,0 +1,16 @@
+Name: Maya Singh
+Target Role: Applied ML Scientist
+Location: Bengaluru
+
+Summary:
+Applied ML scientist with 8 years of experience in recommendation and ranking systems.
+
+Skills:
+Python, TensorFlow, PyTorch, Ranking Models, Feature Stores, SQL
+
+Experience:
+- Principal ML Scientist, RankLab (2020-2026): Led semantic matching system for talent search.
+- ML Scientist, PredictHub (2017-2020): Built recommendation pipelines.
+
+Education:
+M.Tech in AI, IISc Bengaluru, 2017

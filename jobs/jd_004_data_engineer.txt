@@ -1,0 +1,21 @@
+Job Title: Data Engineer
+Location: Remote
+Experience Required: 4+ years
+
+Role Summary:
+Seeking a Data Engineer to build robust ETL workflows and maintain analytics-ready datasets.
+
+Must-Have Requirements:
+- 4+ years in data engineering
+- Strong Python and SQL
+- Experience with Airflow and Spark
+- Cloud data platform experience (AWS/GCP/Azure)
+
+Good-to-Have:
+- Kafka or streaming systems
+- Data quality and observability tooling
+
+Responsibilities:
+- Build ingestion pipelines for structured and unstructured data
+- Maintain data models for reporting and ML use cases
+- Improve data reliability and processing efficiency

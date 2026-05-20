@@ -1,0 +1,16 @@
+Name: Harper Evans
+Target Role: Recruitment Data Specialist
+Location: Toronto
+
+Summary:
+Recruitment analytics specialist with 4 years of experience in ATS data and hiring KPIs.
+
+Skills:
+SQL, Python, Excel, Dashboarding, Talent Analytics, HRIS
+
+Experience:
+- Recruitment Data Specialist, TalentNorth (2023-2026): Built recruiter performance dashboards.
+- HR Operations Analyst, PeopleOpsLab (2022-2023): Managed candidate pipeline reports.
+
+Education:
+B.Comm, University of Toronto, 2022

@@ -1,0 +1,16 @@
+Name: Sneha Iyer
+Target Role: Software Engineer (Backend)
+Location: Chennai
+
+Summary:
+Backend developer with 3 years of experience in Python APIs and cloud-native services.
+
+Skills:
+Python, Flask, PostgreSQL, AWS, Docker, Git, Unit Testing
+
+Experience:
+- Software Engineer, FinOrbit (2024-2026): Built account management APIs.
+- Graduate Engineer Trainee, CodeSpring (2023-2024): Supported backend test automation.
+
+Education:
+B.Tech in CSE, VIT Chennai, 2023

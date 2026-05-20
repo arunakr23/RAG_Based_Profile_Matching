@@ -1,0 +1,16 @@
+Name: Fatima Ali
+Target Role: AI Engineer
+Location: Lahore
+
+Summary:
+AI engineer with 6 years of experience in machine learning, NLP, and model serving.
+
+Skills:
+Python, TensorFlow, PyTorch, NLP, Docker, MLflow, FastAPI
+
+Experience:
+- AI Engineer, NovaAI (2021-2026): Built candidate ranking system for HR team.
+- ML Engineer, DataForge (2019-2021): Created fraud detection model APIs.
+
+Education:
+M.S. in Computer Science, LUMS, 2019

@@ -1,0 +1,17 @@
+Name: Rahul Sen
+Target Role: Senior Data Scientist
+Location: Kolkata
+
+Summary:
+Senior data scientist with 9 years in predictive modeling and optimization.
+
+Skills:
+Python, R, SQL, Machine Learning, Deep Learning, XGBoost, NLP
+
+Experience:
+- Lead Data Scientist, Stratagen (2020-2026): Developed talent matching recommender.
+- Data Scientist, OptiCore (2017-2020): Built demand and churn models.
+- Analyst, Predicta (2015-2017): Performed exploratory data analysis.
+
+Education:
+M.Stat, ISI Kolkata, 2015

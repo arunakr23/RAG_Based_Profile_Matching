@@ -1,0 +1,16 @@
+Name: Daniel Kim
+Target Role: Cloud Engineer
+Location: Seattle
+
+Summary:
+Cloud engineer with 7 years of AWS platform and infrastructure automation experience.
+
+Skills:
+AWS, Terraform, Kubernetes, Python, CI/CD, Observability
+
+Experience:
+- Cloud Engineer, InfraStack (2020-2026): Built secure multi-account cloud setup.
+- DevOps Engineer, CloudNova (2018-2020): Automated build and release workflows.
+
+Education:
+B.S. in Computer Engineering, UC Davis, 2018

@@ -1,0 +1,21 @@
+Job Title: HR Analytics Specialist
+Location: Gurugram
+Experience Required: 3+ years
+
+Role Summary:
+We are looking for an HR Analytics Specialist to derive hiring insights from recruitment and workforce data.
+
+Must-Have Requirements:
+- 3+ years in analytics
+- Strong SQL and Excel
+- Experience with Tableau or Power BI
+- Ability to communicate with non-technical stakeholders
+
+Good-to-Have:
+- Python for data analysis
+- Experience with ATS/HRIS datasets
+
+Responsibilities:
+- Build dashboards for hiring funnel and recruiter performance
+- Provide actionable insights for leadership
+- Support strategic workforce planning with data

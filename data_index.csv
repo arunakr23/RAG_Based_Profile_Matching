@@ -1,0 +1,31 @@
+filename,path,role,seniority,key_skills,expected_relevance
+resume_001_aarav_mehta.txt,resumes/resume_001_aarav_mehta.txt,Data Scientist,Senior,"Python;SQL;Pandas;Scikit-learn;NLP",high
+resume_002_riya_sharma.txt,resumes/resume_002_riya_sharma.txt,Machine Learning Engineer,Mid,"Python;PyTorch;TensorFlow;MLOps",high
+resume_003_john_doe.txt,resumes/resume_003_john_doe.txt,Senior Python Developer,Senior,"Python;FastAPI;Django;PostgreSQL;Kubernetes",high
+resume_004_isha_verma.txt,resumes/resume_004_isha_verma.txt,Data Analyst,Mid,"SQL;Python;Tableau;Power BI",medium
+resume_005_kabir_khan.txt,resumes/resume_005_kabir_khan.txt,NLP Engineer,Senior,"Python;Transformers;PyTorch;spaCy;HuggingFace",high
+resume_006_sneha_iyer.txt,resumes/resume_006_sneha_iyer.txt,Software Engineer (Backend),Junior,"Python;Flask;PostgreSQL;AWS",medium
+resume_007_priya_nair.txt,resumes/resume_007_priya_nair.txt,Full Stack Developer,Mid,"React;Node.js;Python;MongoDB",medium
+resume_008_omar_siddiqui.txt,resumes/resume_008_omar_siddiqui.txt,DevOps Engineer,Senior,"AWS;Docker;Kubernetes;Terraform",high
+resume_009_neha_gupta.txt,resumes/resume_009_neha_gupta.txt,Business Analyst,Mid,"SQL;Excel;Tableau;KPI Design",medium
+resume_010_rohan_patel.txt,resumes/resume_010_rohan_patel.txt,Data Engineer,Senior,"Python;Spark;Airflow;Kafka;AWS",high
+resume_011_emily_chen.txt,resumes/resume_011_emily_chen.txt,Product Analyst,Mid,"SQL;Python;A/B Testing;Amplitude",medium
+resume_012_liam_wilson.txt,resumes/resume_012_liam_wilson.txt,Python Developer,Junior,"Python;Flask;SQL",low
+resume_013_fatima_ali.txt,resumes/resume_013_fatima_ali.txt,AI Engineer,Senior,"Python;TensorFlow;PyTorch;FastAPI",high
+resume_014_rahul_sen.txt,resumes/resume_014_rahul_sen.txt,Senior Data Scientist,Senior,"Python;R;XGBoost;NLP",high
+resume_015_julia_roberts.txt,resumes/resume_015_julia_roberts.txt,HR Analyst,Mid,"SQL;Excel;Tableau;HR Metrics",medium
+resume_016_vikram_rao.txt,resumes/resume_016_vikram_rao.txt,Backend Engineer,Mid,"Java;Python;Spring Boot;FastAPI",medium
+resume_017_sara_miller.txt,resumes/resume_017_sara_miller.txt,Data Scientist (NLP),Mid,"Python;Sentence Transformers;IR;SQL",high
+resume_018_daniel_kim.txt,resumes/resume_018_daniel_kim.txt,Cloud Engineer,Senior,"AWS;Terraform;Kubernetes;CI/CD",high
+resume_019_nikita_arora.txt,resumes/resume_019_nikita_arora.txt,Junior Data Analyst,Junior,"SQL;Excel;Power BI",low
+resume_020_aditya_jain.txt,resumes/resume_020_aditya_jain.txt,MLOps Engineer,Mid,"Python;MLflow;Kubernetes;Airflow",high
+resume_021_chloe_brown.txt,resumes/resume_021_chloe_brown.txt,Full Stack Engineer,Senior,"React;Node.js;Python;PostgreSQL",medium
+resume_022_yusuf_hassan.txt,resumes/resume_022_yusuf_hassan.txt,Data Engineer,Mid,"Python;Airflow;Snowflake;Spark",medium
+resume_023_ananya_bose.txt,resumes/resume_023_ananya_bose.txt,Data Scientist,Junior,"Python;Time Series;Scikit-learn",medium
+resume_024_mohit_batra.txt,resumes/resume_024_mohit_batra.txt,Senior Software Engineer,Senior,"Java;Python;Microservices;Kafka",high
+resume_025_harper_evans.txt,resumes/resume_025_harper_evans.txt,Recruitment Data Specialist,Mid,"SQL;Python;Excel;HR Analytics",medium
+resume_026_karan_malhotra.txt,resumes/resume_026_karan_malhotra.txt,Python Automation Engineer,Mid,"Python;Selenium;Airflow;API Automation",medium
+resume_027_lucas_martin.txt,resumes/resume_027_lucas_martin.txt,Junior Backend Developer,Junior,"Python;Node.js;PostgreSQL",low
+resume_028_maya_singh.txt,resumes/resume_028_maya_singh.txt,Applied ML Scientist,Senior,"Python;TensorFlow;Ranking;SQL",high
+resume_029_ahmed_reza.txt,resumes/resume_029_ahmed_reza.txt,BI Developer,Senior,"SQL;Power BI;Tableau;ETL",medium
+resume_030_zoya_merchant.txt,resumes/resume_030_zoya_merchant.txt,Data Science Intern,Intern,"Python;Pandas;Scikit-learn",low

@@ -1,0 +1,16 @@
+Name: Zoya Merchant
+Target Role: Data Science Intern
+Location: Mumbai
+
+Summary:
+Recent graduate with internship experience in data cleaning, Python modeling, and visualization.
+
+Skills:
+Python, SQL, Pandas, Matplotlib, Scikit-learn, Excel
+
+Experience:
+- Data Science Intern, Analytica Labs (2025-2026): Built classification prototype for candidate screening.
+- Intern, FinData Works (2024-2025): Assisted in ETL and reporting tasks.
+
+Education:
+BSc in Data Science, Mumbai University, 2025

@@ -1,0 +1,21 @@
+Job Title: DevOps Engineer
+Location: Noida
+Experience Required: 5+ years
+
+Role Summary:
+Hiring a DevOps Engineer to automate deployment, monitor production, and improve release quality.
+
+Must-Have Requirements:
+- 5+ years in DevOps or cloud engineering
+- Strong AWS experience
+- Docker and Kubernetes expertise
+- Infrastructure as code (Terraform)
+
+Good-to-Have:
+- Python scripting for automation
+- Security and compliance automation
+
+Responsibilities:
+- Design scalable CI/CD pipelines
+- Manage cloud infrastructure and observability stack
+- Work with engineering to reduce deployment failures

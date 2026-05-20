@@ -1,0 +1,16 @@
+Name: Ahmed Reza
+Target Role: Business Intelligence Developer
+Location: Dubai
+
+Summary:
+BI developer with 6 years of experience in dashboarding and SQL optimization.
+
+Skills:
+SQL, Power BI, Tableau, Data Modeling, Python, ETL
+
+Experience:
+- BI Developer, InsightME (2021-2026): Built executive hiring KPI dashboards.
+- Data Analyst, GulfMetrics (2019-2021): Produced monthly performance insights.
+
+Education:
+BSc in Information Systems, University of Sharjah, 2019
